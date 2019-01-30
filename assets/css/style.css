@@ -1,0 +1,57 @@
+
+.headnav {
+	background-color: #566AB0;
+
+}
+
+.navbar-default .navbar-brand {
+    color: #e2dfdf;
+    font-weight:bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #e2dfdf;
+}
+
+.navbar-default {
+    background-color: #7082BF;
+    border-color: #e7e7e7;
+}
+
+.page-footer {
+	background-color: #7F828E;
+    border-color: #e7e7e7;
+    color: #e2dfdf;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+a {
+	 color: #e2dfdf;
+}
+
+.well {
+    background-color: #7082BF;
+    border-color: #e7e7e7;
+    color: #e2dfdf;
+}
+
+.well > h3 {
+	 font-weight: bold;
+}
+
+
+
+.btn-prim {
+	background-color: #4A588C;
+		margin-bottom:20px;
+}
+
+.btn-sec{
+	background-color: #7F828E;
+		margin-bottom:20px;
+}
+
+.btn-option {
+     background-color: #4A588C;
+}
